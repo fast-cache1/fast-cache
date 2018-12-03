@@ -1,5 +1,4 @@
 ﻿# fast-cache
 短小精悍的前端缓存工具，防止内存“侧漏”
 hello world
-omg 请多学习
-
+omg 两个多小时提交都解决不了。
