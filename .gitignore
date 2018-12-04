@@ -1,4 +1,4 @@
-# Logs
+.babelrc.babelrc# Logs
 logs
 *.log
 npm-debug.log*
